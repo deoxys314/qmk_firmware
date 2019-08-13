@@ -29,7 +29,8 @@ either of which should help useres remeber where it is located.
 
 ## Concessions
 
-Owing primarily to the small size of the board, some concessions had to be made.
+Owing primarily to the small size of the board,
+some concessions in key placemnt had to be made.
 
 The main impediment to usability is that there are no numperpad keys.
 For most this will be a minor issue,
