@@ -1,4 +1,4 @@
 #pragma once
 
-#define RETRO_TAPPING
-#define TAPPING_TERM 300
+#define PERMISSIVE_HOLD
+#define TAPPING_TERM 200

@@ -14,8 +14,8 @@ and so are familiar to most users.)
 There is some slight mnemonic thought put into the layers.
 The *NUMBER* layer is on the side of the keyboard with the `N` key.
 The *SYMBOL* layer is on the side with the `S` key,
-and as a benefit, most symbols are on the right side of the board,
-where they are "expected" to be,
+and as a benefit, most symbols are on the right side of the board.
+This is where they are "expected" to be,
 easily accessible without stressing one's hands.
 
 The two macros are included because they would be virtually impossible to use
